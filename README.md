@@ -1,2 +1,2 @@
 # HEMOS
-Versão 1.0 Bando de sangue - HEMOS
+Versão 1.1 Bando de sangue - HEMOS
