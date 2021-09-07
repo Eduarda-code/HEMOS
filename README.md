@@ -2,7 +2,7 @@
 
 #Projeto em desenvolvimento
 
-Bando de sangue - HEMOS
+Banco de sangue - HEMOS
 
 Centro de Doação de Sangue
 
